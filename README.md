@@ -1,2 +1,2 @@
 # news_bot
-Bot for news agregation
+Bot for news aggregation 
